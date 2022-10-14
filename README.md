@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Pasquale De Lucia
+- 👀 I’m interested in Javascript developing and artificial inteligence
+- 🌱 I’m currently learning NestJS and Flutter
+- 💞️ I’m looking to collaborate on something thant can capture my attention
