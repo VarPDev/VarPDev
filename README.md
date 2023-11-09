@@ -1,4 +1,8 @@
-- 👋 Hi, I’m Pasquale De Lucia
-- 👀 I’m interested in Javascript developing and artificial inteligence
-- 🌱 I’m currently learning NestJS and Flutter
-- 💞️ I’m looking to collaborate on something that can capture my attention
+# Pasquale De Lucia
+
+## About me
+Web Wizard and JavaScript Lover
+
+I craft digital wonders as a Full-Stack Engineer at ScuolaZoo.
+
+With a solid eight years of web development under my belt, I'm here to make your online dreams a reality.
