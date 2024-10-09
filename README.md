@@ -3,6 +3,6 @@
 ## About me
 Web Wizard and JavaScript Lover
 
-I craft digital wonders as a Full-Stack Engineer at ScuolaZoo.
+I craft digital wonders as a Full-Stack Engineer.
 
-With a solid eight years of web development under my belt, I'm here to make your online dreams a reality.
+With many years of web development behind me, I am here to turn your online dreams into reality.
